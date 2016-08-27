@@ -1,0 +1,3 @@
+[submodule "ld36"]
+	path = ld36
+	url = git@github.com:Wiatrogon/ld36.git
